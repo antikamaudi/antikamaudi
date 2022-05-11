@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @antikamaudi
+- 👋 Hi, I’m Antika Maudi Lanthasari
 - 👀 I’m interested in business, data analyst and data analytics
 - 🌱 I’m currently learning data science and machine learning
 - 💞️ I’m looking to collaborate on a lot of data science projects
