@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @antikamaudi
+- 👀 I’m interested in business, data analyst and data analytics
+- 🌱 I’m currently learning data science and machine learning
+- 💞️ I’m looking to collaborate on a lot of data science projects
+- 📫 antika.lanthasari@gmail.com
